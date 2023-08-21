@@ -1,0 +1,25 @@
+.borda {
+    border-color: darkgray;
+    border-width: 4px;
+    border-style: outset;
+
+} 
+
+.esp {
+    padding: 10px;
+}
+.fundo-borda{
+    background-color:darkgreen ;
+}
+.fundo {
+    background-color:aliceblue;
+}
+.container {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.borda-redonda {
+    border-radius: 300px;
+}
